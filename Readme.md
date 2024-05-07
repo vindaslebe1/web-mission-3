@@ -2,7 +2,7 @@
 
 ## Part 0
 
-[Link to video](https://www.youtube.com/watch?v=UUhavvMO2FQ)
+[Link to video]([https://www.youtube.com/watch?v=UUhavvMO2FQ](https://youtu.be/LCPQv4Xa7p0))
 
 ## Part1
 
