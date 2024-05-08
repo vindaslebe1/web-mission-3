@@ -1,5 +1,5 @@
 Part 0-2  
-[Link to video](https://youtu.be/l9qxVFuOlWU)
+[Link to video](https://youtu.be/l9qxVFuOlWU)  
 Part 3  
 - Вопрос 1
 select username from users
